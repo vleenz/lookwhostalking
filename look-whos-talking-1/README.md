@@ -1,4 +1,4 @@
-
+This code runs a simple translation of an english sentence to a maori sentence.
 ## Name
 Look Who's Talking  
 - Vincent Lee and Shamen Kumar
